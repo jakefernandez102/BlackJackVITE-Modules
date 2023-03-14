@@ -7,3 +7,4 @@ Steps to run the project
 3. Run the debServer ```npm run dev```
 4. Open the project in ```localHost:3000``` 
 
+Production
